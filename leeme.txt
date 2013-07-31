@@ -1,1 +1,7 @@
 Ejercicios C++ básicos, AHORA DESDE BUCLES
+
+/*comando para agregar branch */
+git branch -b minuevaBranch
+
+/*comando para verificar si ya se actualizo branch creada en la pagina github*/
+git branch -a
